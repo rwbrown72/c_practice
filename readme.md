@@ -12,6 +12,6 @@ or
 
 Most of the eamples are from these sources:
 
-    [How Stuff Works](http://computer.howstuffworks.com/c.htm)
+[How Stuff Works](http://computer.howstuffworks.com/c.htm)
 
-    [HarvardX and CS50](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/info)
+[HarvardX and CS50](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/info)
