@@ -9,3 +9,9 @@ I hope to keep adding problems to this folder as well as help other who are lear
 or 
 
 [Russell Brown Email](mailto:russellbrowncompany@gmail.com)
+
+Most of the eamples are from these sources:
+
+[How Stuff Works](http://computer.howstuffworks.com/c.htm)
+
+[HarvardX and CS50](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/info)
