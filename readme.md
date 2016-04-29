@@ -10,7 +10,7 @@ or
 
 [Russell Brown Email](mailto:russellbrowncompany@gmail.com)
 
-Most of the eamples are from these sources:
+Most of the examples are from these sources:
 
 [How Stuff Works](http://computer.howstuffworks.com/c.htm)
 
