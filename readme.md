@@ -12,6 +12,10 @@ or
 
 Most of the examples are from these sources:
 
+[HarvardX and CS50](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/info)
+
 [How Stuff Works](http://computer.howstuffworks.com/c.htm)
 
-[HarvardX and CS50](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/info)
+[C Programming ABSOLUTE BEGINNERS GUIDE](http://www.amazon.com/Programming-Absolute-Beginners-Guide-3rd/dp/0789751984)
+
+
