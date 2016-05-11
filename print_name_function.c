@@ -1,5 +1,5 @@
-This program demonstrates how to write a small function that takes 
-an input from GetString() and displays it inside main. 
+// This program demonstrates how to write a small function that takes 
+// an input from GetString() and displays it inside main. 
 
 #include <stdio.h>
 #include <cs50.h>
