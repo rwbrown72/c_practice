@@ -24,7 +24,7 @@ int GetPositiveInt(void)
 		printf("Please give me a positive int: ");
 		n = GetInt();
 
-		if (n < 50) 
+		if (n < 0) 
 		{
 			printf("Int must be greater than 0. Please try again.\n");
 		}
