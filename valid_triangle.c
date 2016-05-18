@@ -1,3 +1,7 @@
+
+	// Valid triangle using a function that compares the sides of the triangles to make sure that it is valid. It makes sure that all numbers are positive and that any two sides of the triangle add together must be longer than the third side.
+
+
 #include <stdio.h>
 #include <cs50.h>
 #include <string.h>
