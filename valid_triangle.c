@@ -25,7 +25,9 @@ int main(int argc, string argv[])
 
 	int valid_triangle(int a, int b, int c);
 
-	if (valid_triangle > 0)
+	int t = (int) valid_triangle;
+
+	if (t < 1)
 	{
 		printf("Your Triangle is valid.\n");
 	}
@@ -37,9 +39,8 @@ int main(int argc, string argv[])
 
 int valid_triangle(int a, int b, int c)
 {
-	if ( (a+b) >= c && (a+c) >= b && (b+c) >=a)
+	if ( ((a+b) <= c) || ((a+c) <= b) || ((b+c) <= a))
 	{
-		printf("returning 1\n");
 		return 1;
 	}
 	else 
